@@ -1,0 +1,89 @@
+===== APITest =====
+----
+
+===== Automation =====
+
+Jacob Can’t co-create object  [[https://netheadaches.wordpress.com/2012/04/22/jacob-cant-co-create-object/]]
+
+----
+
+
+===== AuotIt =====
+
+----
+
+===== Database =====
+
+----
+
+===== Git =====
+
+----
+
+===== Java =====
+
+Java2s - Program tutorial and example [[http://www.java2s.com/]]
+
+Java common pattern string for date  [[http://www.fileformat.info/tip/java/simpledateformat.htm]]
+
+Enum tricks: hierarchical data structure  [[http://java.dzone.com/articles/enum-tricks-hierarchical-data]]
+
+Generate Emails, SMS, and other Messages from Templates in Java  [[https://topriddy.wordpress.com/2012/02/23/how-to-generate-emails-sms-and-other-messages-from-templates-in-java/]]
+
+Java 加载dll介绍  [[http://dayu9.blog.163.com/blog/static/18628907920116551646117/]]
+
+JAVA动态加载dll任意路径加载dll  [[http://blog.csdn.net/ctllin/article/details/32726799]]
+
+Java Reflection  [[http://blog.csdn.net/casularm/article/details/188704]]
+
+Java Remote Desktop Administration  [[http://www.codeproject.com/Articles/36065/Java-Remote-Desktop-Administration]]
+
+Java使用开源Rxtx实现串口通讯(串口开发)  [[http://blog.csdn.net/xiezhiyong3621/article/details/8092150]]
+
+Java中TimerTask实现“心跳”线程 [[http://blog.csdn.net/zhongwcool/article/details/13004107]]
+
+Package javax.comm  [[http://docs.oracle.com/cd/E17802_01/products/products/javacomm/reference/api/javax/comm/package-summary.html]]
+
+Jericho HTML Parser  [[http://jericho.htmlparser.net/docs/index.html]]
+
+JSch - Java Secure Channel  [[http://www.jcraft.com/jsch/]]
+
+SunCertPathBuilderException  [[http://www.mkyong.com/webservices/jax-ws/suncertpathbuilderexception-unable-to-find-valid-certification-path-to-requested-target/]]
+
+Examples for java GUI  [[http://www.javaspecialists.eu/archive/newsletters.jsp?category=GUI&locale=en_US]]
+
+Visitor_pattern wiki  [[http://en.wikipedia.org/wiki/Visitor_pattern]]
+
+----
+
+===== Jenkins =====
+
+
+===== Linux =====
+
+
+===== Maven =====
+
+
+===== Memcached =====
+
+===== MongoDB =====
+
+
+===== Open Source =====
+
+
+===== ReportNG =====
+
+
+===== Selenium =====
+
+
+===== TestNG =====
+
+
+===== WebCrawler =====
+
+
+===== Xvfb =====
+

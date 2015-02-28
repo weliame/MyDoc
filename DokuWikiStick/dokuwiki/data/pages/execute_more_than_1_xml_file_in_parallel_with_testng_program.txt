@@ -1,0 +1,40 @@
+====== Execute more than 1 xml file in PARALLEL with TestNG program ======
+
+
+  import java.io.FileNotFoundException;
+  import java.io.IOException;
+  import java.util.List;
+  import javax.xml.parsers.ParserConfigurationException;
+  import org.testng.xml.Parser;
+  import org.testng.xml.XmlSuite;
+  import org.testng.TestNG;
+  import org.xml.sax.SAXException;
+  
+  public class MultipleXmls{
+        public static void main(String[] args) throws FileNotFoundException, ParserConfigurationException, SAXException, IOException {
+		TestNG testng = new TestNG(); 
+		testng.setXmlSuites((List <XmlSuite>)(new Parser("Test.xml").parse()));		
+		testng.setSuiteThreadPoolSize(3);
+		testng.run();
+        }
+  }
+
+In Test.xml content is
+
+  <?xml version="1.0" encoding="UTF-8"?>
+  <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+  <suite name="Multiple Suites"> 
+      <suite-files>
+  	<suite-file path="filepath1" />
+  	<suite-file path="filepath2" />
+  	<suite-file path="filepath3" />
+      </suite-files>
+  </suite>
+
+<WRAP left round help 60%>
+Tow questions:
+
+1.  How can do this via the TestNG xml suite file [without using the TestNG APIs]?
+
+2.  How to determine that the suites are INDEED running in parallel ? [Thread.getCurrentThread().getId() ?  Suites run in parallel when enable parallelism at every suite level itself.]
+</WRAP>
