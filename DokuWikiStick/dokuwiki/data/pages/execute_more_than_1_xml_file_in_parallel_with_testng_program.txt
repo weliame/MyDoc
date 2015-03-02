@@ -1,4 +1,4 @@
-====== Execute more than 1 xml file in PARALLEL with TestNG program ======
+====== Execute more testng xml files in parallel with TestNG program ======
 
 
   import java.io.FileNotFoundException;

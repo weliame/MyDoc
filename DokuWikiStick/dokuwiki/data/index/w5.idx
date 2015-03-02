@@ -39,3 +39,6 @@ round
 getid
 every
 level
+xpath
+style
+block

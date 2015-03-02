@@ -1,0 +1,62 @@
+===== Automation Interview Question =====
+
+如何理解自动化在实际测试工作中的应用？
+
+自动化测试的核心是什么？
+
+你觉得如果做好自动化测试？
+
+自动化测试如何帮助提升测试效率？
+
+常用的自动化测试框架有哪些？
+
+自动化测试的一般流程是什么？
+
+是否有过成功的自动化测试过程，若有，举一例？
+
+自动化测试框架的组成？
+
+Selenium 1.0 和 2.0 有什么区别？
+
+介绍Selenium Grid 的工作原理？
+
+Webdriver 的工作原理？
+
+介绍一下Selenium 2.0中常用的类文件？
+
+  RemoteWebdriver
+  FirefoxDriver
+  InternalExploreDriver
+  ChromeDriver
+  SafriDriver
+  HtmlUnit
+  Select
+  Actions
+
+Selenium 中定位元素的方法有？
+
+页面上有一个id=“test的元素，请写出能找到该元素的xpath？
+
+在一个Web页面上有很多html元素，其中有三个元素如下，请写出定位第2个a元素的xpath及css selector。
+  1  <a class="viewer">View</a>
+  2  <a class="resouce", style="display: block;"></a>
+  3  <a class="resouce", style="display: none;"></a>
+
+Selenium中PageObject是什么？
+
+Testng中有哪些常用标签？
+
+Testng提供哪些方法来分离测试数据和测试步骤？
+
+Testng中如何并行运行测试？
+
+Testng提供哪些对外接口？
+
+  IAnnotationTransformer
+  IAnnotationTransformer2
+  IHookable
+  IInvokedMethodListener
+  IMethodInterceptor
+  IReporter
+  ISuiteListener
+  ITestListener

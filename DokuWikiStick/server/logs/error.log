@@ -2,7 +2,8 @@
 [Sat Feb 28 14:28:48.416716 2015] [mpm_winnt:notice] [pid 7648:tid 376] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
 [Sat Feb 28 14:28:48.416716 2015] [core:notice] [pid 7648:tid 376] AH00094: Command line: 'mapache.exe -d D:/WorkTools/Workspace/MyDoc/DokuWikiStick/server'
 [Sat Feb 28 14:28:48.418716 2015] [mpm_winnt:notice] [pid 7648:tid 376] AH00418: Parent: Created child process 7256
-[Sat Feb 28 14:28:49.234763 2015] [mpm_winnt:notice] [pid 7256:tid 392] AH00354: Child: Starting 64 worker threads.
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 7256:tid 392] AH00354: Child: Starting 64 worker threads.
 [Sat Feb 28 14:28:49.361770 2015] [mpm_winnt:warn] [pid 7256:tid 1032] (OS 64)指定的网络名不再可用。  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
 [Sat Feb 28 14:28:49.362770 2015] [mpm_winnt:warn] [pid 7256:tid 1032] (OS 64)指定的网络名不再可用。  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
 [Sat Feb 28 14:28:49.383771 2015] [core:alert] [pid 7256:tid 912] [client ::1:62397] D:/WorkTools/Workspace/MyDoc/DokuWikiStick/dokuwiki/data/.htaccess: order not allowed here, referer: http://localhost:8800/install.php
@@ -23,3 +24,12 @@
 [Sat Feb 28 17:02:56.814694 2015] [core:alert] [pid 7256:tid 920] [client ::1:64788] D:/WorkTools/Workspace/MyDoc/DokuWikiStick/dokuwiki/data/.htaccess: order not allowed here, referer: http://localhost:8800/doku.php?id=resourcelinks&do=admin
 [Sat Feb 28 17:02:57.956760 2015] [core:alert] [pid 7256:tid 916] [client ::1:64789] D:/WorkTools/Workspace/MyDoc/DokuWikiStick/dokuwiki/data/.htaccess: order not allowed here, referer: http://localhost:8800/doku.php?id=resourcelinks&do=admin
 [Sat Feb 28 17:46:08.499327 2015] [core:alert] [pid 7256:tid 924] [client ::1:65216] D:/WorkTools/Workspace/MyDoc/DokuWikiStick/dokuwiki/data/.htaccess: order not allowed here, referer: http://localhost:8800/doku.php?id=resourcelinks&do=admin
+[Sat Feb 28 18:35:54.369307 2015] [mpm_winnt:notice] [pid 7648:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Feb 28 18:35:56.430425 2015] [mpm_winnt:notice] [pid 7256:tid 392] AH00364: Child: All worker threads have exited.
+[Sat Feb 28 18:35:56.723442 2015] [mpm_winnt:notice] [pid 7648:tid 376] AH00430: Parent: Child process 7256 exited successfully.
+[Mon Mar 02 14:11:49.960605 2015] [mpm_winnt:notice] [pid 8208:tid 376] AH00455: Apache/2.4.7 (Win32) PHP/5.4.25 configured -- resuming normal operations
+[Mon Mar 02 14:11:49.960605 2015] [mpm_winnt:notice] [pid 8208:tid 376] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Mon Mar 02 14:11:49.960605 2015] [core:notice] [pid 8208:tid 376] AH00094: Command line: 'mapache.exe -d D:/WorkTools/Workspace/MyDoc/DokuWikiStick/server'
+[Mon Mar 02 14:11:49.962605 2015] [mpm_winnt:notice] [pid 8208:tid 376] AH00418: Parent: Created child process 10180
+[Mon Mar 02 14:11:50.703648 2015] [mpm_winnt:notice] [pid 10180:tid 392] AH00354: Child: Starting 64 worker threads.
+[Mon Mar 02 14:11:50.707648 2015] [mpm_winnt:warn] [pid 10180:tid 952] (OS 64)指定的网络名不再可用。  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
