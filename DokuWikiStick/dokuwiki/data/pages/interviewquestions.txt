@@ -1,20 +1,16 @@
 ===== Automation Interview Question =====
 
-如何理解自动化在实际测试工作中的应用？
+自动化测试的目的是什么？
 
-自动化测试的核心是什么？
+自动化测试适用于哪些测试过程？
 
-你觉得如果做好自动化测试？
+你觉得如果能做好自动化测试？
 
-自动化测试如何帮助提升测试效率？
+熟悉哪些自动化测试框架？
 
-常用的自动化测试框架有哪些？
+对于Web系统，编写自动化测试case的一般步骤有哪些？
 
-自动化测试的一般流程是什么？
-
-是否有过成功的自动化测试过程，若有，举一例？
-
-自动化测试框架的组成？
+有编写自动化测试框架的经验？请画出该框架的结构图。
 
 Selenium 1.0 和 2.0 有什么区别？
 
@@ -22,7 +18,7 @@ Selenium 1.0 和 2.0 有什么区别？
 
 Webdriver 的工作原理？
 
-介绍一下Selenium 2.0中常用的类文件？
+介绍一下Selenium 2.0中你常用到的常用的类文件？
 
   RemoteWebdriver
   FirefoxDriver
@@ -37,16 +33,16 @@ Selenium 中定位元素的方法有？
 
 页面上有一个id=“test的元素，请写出能找到该元素的xpath？
 
-在一个Web页面上有很多html元素，其中有三个元素如下，请写出定位第2个a元素的xpath及css selector。
+在一个Web页面上有很多html元素，其中有三个元素如下，请写出定位第2个a元素的方法.
   1  <a class="viewer">View</a>
   2  <a class="resouce", style="display: block;"></a>
   3  <a class="resouce", style="display: none;"></a>
 
 Selenium中PageObject是什么？
 
-Testng中有哪些常用标签？
+Testng(Junit)中有哪些常用标签？
 
-Testng提供哪些方法来分离测试数据和测试步骤？
+Testng中有哪些方式来分离测试数据和测试步骤？
 
 Testng中如何并行运行测试？
 
@@ -60,3 +56,7 @@ Testng提供哪些对外接口？
   IReporter
   ISuiteListener
   ITestListener
+  
+假设现在有一个Linux服务器，需要搭建jenkins，并且在该jenkins上运行自动化测试工程AutoProject，需要怎么做？
+
+Rectangle .isOverlap  矩形是否重叠的方法， 编写程序isOverlap(x0,y0,w0,h0,x1,y1,w1,h1){}   

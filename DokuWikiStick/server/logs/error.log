@@ -31,5 +31,32 @@ pm_winnt:notice] [pid 7256:tid 392] AH00354: Child: Starting 64 worker threads.
 [Mon Mar 02 14:11:49.960605 2015] [mpm_winnt:notice] [pid 8208:tid 376] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
 [Mon Mar 02 14:11:49.960605 2015] [core:notice] [pid 8208:tid 376] AH00094: Command line: 'mapache.exe -d D:/WorkTools/Workspace/MyDoc/DokuWikiStick/server'
 [Mon Mar 02 14:11:49.962605 2015] [mpm_winnt:notice] [pid 8208:tid 376] AH00418: Parent: Created child process 10180
-[Mon Mar 02 14:11:50.703648 2015] [mpm_winnt:notice] [pid 10180:tid 392] AH00354: Child: Starting 64 worker threads.
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 10180:tid 392] AH00354: Child: Starting 64 worker threads.
 [Mon Mar 02 14:11:50.707648 2015] [mpm_winnt:warn] [pid 10180:tid 952] (OS 64)指定的网络名不再可用。  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Mon Mar 02 20:53:56.018537 2015] [mpm_winnt:notice] [pid 8208:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Mar 02 20:53:58.126657 2015] [mpm_winnt:notice] [pid 10180:tid 392] AH00364: Child: All worker threads have exited.
+[Mon Mar 02 20:53:59.229721 2015] [mpm_winnt:notice] [pid 8208:tid 376] AH00430: Parent: Child process 10180 exited successfully.
+[Wed Mar 18 15:02:54.429715 2015] [mpm_winnt:notice] [pid 5796:tid 376] AH00455: Apache/2.4.7 (Win32) PHP/5.4.25 configured -- resuming normal operations
+[Wed Mar 18 15:02:54.429715 2015] [mpm_winnt:notice] [pid 5796:tid 376] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Wed Mar 18 15:02:54.429715 2015] [core:notice] [pid 5796:tid 376] AH00094: Command line: 'mapache.exe -d D:/WorkTools/Workspace/MyDoc/DokuWikiStick/server'
+[Wed Mar 18 15:02:54.431715 2015] [mpm_winnt:notice] [pid 5796:tid 376] AH00418: Parent: Created child process 8820
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 8820:tid 392] AH00354: Child: Starting 64 worker threads.
+[Wed Mar 18 15:02:55.311766 2015] [mpm_winnt:warn] [pid 8820:tid 936] (OS 64)指定的网络名不再可用。  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Wed Mar 18 15:02:55.313766 2015] [mpm_winnt:warn] [pid 8820:tid 936] (OS 64)指定的网络名不再可用。  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Wed Mar 18 18:49:16.170581 2015] [mpm_winnt:notice] [pid 5796:tid 376] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Mar 18 18:49:19.150186 2015] [mpm_winnt:notice] [pid 8820:tid 392] AH00364: Child: All worker threads have exited.
+[Tue Mar 24 13:32:49.733752 2015] [core:warn] [pid 8508:tid 248] AH00098: pid file D:/WorkTools/Workspace/MyDoc/DokuWikiStick/server/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Mar 24 13:32:50.308785 2015] [mpm_winnt:notice] [pid 8508:tid 248] AH00455: Apache/2.4.7 (Win32) PHP/5.4.25 configured -- resuming normal operations
+[Tue Mar 24 13:32:50.308785 2015] [mpm_winnt:notice] [pid 8508:tid 248] AH00456: Apache Lounge VC9 Server built: Nov 28 2013 10:45:22
+[Tue Mar 24 13:32:50.308785 2015] [core:notice] [pid 8508:tid 248] AH00094: Command line: 'mapache.exe -d D:/WorkTools/Workspace/MyDoc/DokuWikiStick/server'
+[Tue Mar 24 13:32:50.311785 2015] [mpm_winnt:notice] [pid 8508:tid 248] AH00418: Parent: Created child process 8560
+Apache server shutdown initiated...
+pm_winnt:notice] [pid 8560:tid 392] AH00354: Child: Starting 64 worker threads.
+[Tue Mar 24 13:32:51.099830 2015] [mpm_winnt:warn] [pid 8560:tid 952] (OS 64)指定的网络名不再可用。  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Tue Mar 24 13:32:51.099830 2015] [mpm_winnt:warn] [pid 8560:tid 952] (OS 64)指定的网络名不再可用。  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Tue Mar 24 13:32:51.099830 2015] [mpm_winnt:warn] [pid 8560:tid 952] (OS 64)指定的网络名不再可用。  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Tue Mar 24 13:32:51.099830 2015] [mpm_winnt:warn] [pid 8560:tid 952] (OS 64)指定的网络名不再可用。  : AH00341: winnt_accept: Asynchronous AcceptEx failed.
+[Tue Mar 24 16:56:37.283128 2015] [mpm_winnt:notice] [pid 8508:tid 248] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Mar 24 16:56:39.703266 2015] [mpm_winnt:notice] [pid 8560:tid 392] AH00364: Child: All worker threads have exited.
