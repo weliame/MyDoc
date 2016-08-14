@@ -1,4 +1,4 @@
-Scaffolding file
-Bubble event
-Callback
-Fallback
+* Scaffolding file
+* Bubble event
+* Callback
+* Fallback
