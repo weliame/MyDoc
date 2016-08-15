@@ -21,3 +21,5 @@ JavaScript variables have either function scope, or global scope. There is no bl
 a closure is an inner object which has access to all of the variables available in its parent function
 
 * [Encapsulation in JS](https://www.intertech.com/Blog/encapsulation-in-javascript/)
+* [Prototypal Inheritance by Douglas Crockford](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
+* [OOP in javascript](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
