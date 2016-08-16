@@ -23,3 +23,11 @@ a closure is an inner object which has access to all of the variables available 
 * [Encapsulation in JS](https://www.intertech.com/Blog/encapsulation-in-javascript/)
 * [Prototypal Inheritance by Douglas Crockford](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
 * [OOP in javascript](http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/)
+
+* [Arrow function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+
+* [Arrow function in ES6](https://hacks.mozilla.org/2015/06/es6-in-depth-arrow-functions/)
+*  --> is a 'go to' operator
+*  [How does 'this' work](http://stackoverflow.com/questions/3127429/how-does-the-this-keyword-work)
+*  [CDN in js]
+*  [AMD in JS]
