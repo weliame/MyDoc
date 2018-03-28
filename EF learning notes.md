@@ -471,5 +471,272 @@ The good news is we had a great dinner, good conversation and he was feeling a l
 I know you're in meetings all day, but please respond ASAP.
 
 
+# 11-3
 
+## 做计划
+ 
+* 用这些表达方式来谈论一个tentative（暂时的）计划。在动词think后，你可以使用about 或者 of。
+  	 
+I'm thinking about visiting Korea. My plan is still rather rough.
+	我想去韩国。我的计划还是比较粗略的。
+	
+I'm hoping to go to Brazil this August.
+	我希望今年八月去巴西。
+  	  	 
+* 使用这些表达方式来谈论更确定的计划。
+  	 
+I intend to spend five days in Cancun, Mexico.
+	我打算去墨西哥的坎昆呆五天。
+	
+I'm planning to visit Tokyo and Kyoto.
+	我计划去东京和京都看看。
+	
+## 做决定
+ 
+* 当你已经下定了决心，你可以使用这些表达方式：
+  	 
+I've made up my mind. I'm going to Egypt!
+	我已经想好了。我要去埃及！
+	
+I've finally made my decision. I'm going to Russia.
+	我终于做好决定了。我要去俄罗斯。
   	
+## 做推荐
+ 
+* 这些是做推荐的一些方式。一般来说，表达方式越短，推荐越直接。
+  	 
+I recommend that you make a detailed itinerary.
+	我建议你做一个详细的行程安排。
+	
+It would be a good idea to spend more time in Rome.
+	在罗马多呆一段时间将是个好主意。
+	
+One thing that you might consider is going in September.
+	你可以考虑九月份去。
+	
+## 否定推荐
+ 
+* 这些是做否定推荐的一些方式。和肯定推荐一样，表达方式越短的，一般来说推荐越直接。
+  	 
+I don't recommend seeing four cities in a week.
+	我不推荐一个星期内参观四个城市。
+	
+If I were you, I wouldn't go to Nice later in the year.
+	如果我是你的话，我不会在一年的晚些时候去尼斯。
+	
+I'm really not sure that staying only in Paris is a good idea.
+	我真的不确定只呆在巴黎是个好主意。
+  	  	 
+> 一种给否定反馈的方法是以肯定陈述开始。注意单词but的使用。
+  	 
+I generally really like your itinerary, but there is one problem.
+	总的来说我真的很喜欢你的行程安排，只是有一个问题。
+	
+## 基本飞行信息
+
+* 安排出行，你需要能够讨论关于你的航班的基本信息。这包括日期，你的目的地，转机和你要买几等舱的票。
+  	 
+My departure date is May 21st. I'll return on June 6th.
+	我的出发日期是5月21日。回程是6月6日。
+  	  	 
+A: OK. So you're leaving from Paris. What's your destination?
+	好的。那么你将从巴黎出发。你的目的地是哪里？
+
+B: Rio de Janeiro.
+	里约热内卢。
+  	  	 
+A: Your flight has a three-hour layover in Shanghai.
+	你的航班将在上海有三个小时的转机时间。
+
+B: That's too bad. I'd rather have a direct flight.
+	那太糟糕了。我更想要直飞的航班。
+  	  	 
+I wanted to fly first class or business class, but I'll be in economy.
+	我本来想要飞头等舱或者商务舱的，但是我将会在经济舱。
+  	  	 
+I want to upgrade to business class.
+	我想升级到商务舱。
+  	  	 
+England Airways is an affiliated airline of Eastern Airways.
+	英格兰航空是东方航空的联营航空公司。
+	
+## 基本的乘客信息
+
+* 如果你有一个航空公司的账户，你将需要讨论你的账户的任何特殊状态－比如gold（黄金）或者platinum（白金）。如果你乘坐一个affiliated（联营）航空公司的飞机，你将仍然得到你的飞行常客里程数。
+  	 
+I have almost 50,000 frequent-flyer miles.
+	我有将近5万飞行常客里程数。
+  	  	 
+I'm platinum status now.
+	我现在是白金状态。
+	
+## 询问以澄清
+ 
+* 当你在聆听详细信息的时候，澄清任何你不懂的事情是很关键的。你可以告诉对方你不明白，让他们慢点说或者重复一遍。
+  	 
+I'm not following you.
+	我没听懂你说的。
+	
+I didn't catch that. Could you repeat it?
+	我不明白。你能再说一遍吗？
+	
+I didn't understand what you said. Did you say 15 or 50?
+	我不懂你刚才说的。你说的是15还是50？
+	
+## 确认信息
+ 
+* 当你认为你明白某人所说的，但是你并不是百分百确认的时候，confirm（确认）这个信息。
+  	 
+A: So, you're saying if I pay an extra $200, I can upgrade to economy plus?
+	那么，你说的是如果我再付200美元，我就可以升级到超级经济舱？
+
+B: Yes, that's right.
+	是的，对的。
+  	  	 
+A: Let me get this straight. The total flight time is 12 hours?
+	让我来弄清楚这件事。总的飞行时间是12个小时吗？
+
+B: No, I'm sorry. It's actually 14 hours.
+	不，对不起。实际上是14个小时。
+  	  	 
+A: Let me make sure I understand. You want to leave on the 21st and return on the 30th?
+	让我来确认我明白了。你想21号离开30号返回吗？
+
+B: Yes, that's correct.
+	是的，正确。
+
+## 延误和取消
+* 你要能理解关于飞行问题的信息是很重要的，不论是短消息信息，邮件或者航空公司的网站上的信息。注意句子中的 has + been句型。
+  	 
+Flight EA 654 to New Delhi has been delayed. It now departs at 5 p.m.
+	飞往新德里的 EA 654 航班已经被推迟。新的起飞时间是下午5点。
+  	  	 
+Flight EA 762 to Cairo has been canceled.
+	飞往开罗的 EA 762 航班已经被取消。
+  	  	 
+## 飞行问题的原因
+* 航空公司通常会给出航班延误或取消的笼统原因。书面信息中他们常常使用due to这个短语；但是当你和一个代理人员说话的时候，because of更常用。
+ 
+Flight EA 762 to Cairo has been canceled due to maintenance issues. 	飞往开罗的 EA 762 航班由于维修问题已经被取消。
+  	  	 	
+A: Excuse me. What's going on with my flight?
+	对不起。我的航班发生什么事了？
+
+B: I'm very sorry sir, but it has been canceled because of a security threat.
+	对不起先生，因为安全威胁航班已经被取消了。
+	
+## 一个城市的积极特征
+ 
+* 世界级城市有很多吸引人的特征，你会想把它们写进来。
+  	 
+Paris has magnificent architecture.
+	巴黎有宏伟的建筑。
+  	  	 
+San Francisco has stunning views of the bay and hills. 	旧金山有绝妙的海湾景色和山景。
+  	  	 
+Singapore has so much cultural diversity.
+	新加坡有众多不同的文化。
+  	  	 
+Rome has amazing ancient monuments.
+	罗马有令人惊奇的古代建筑。
+  	  	 
+Shanghai has a vibrant art scene.
+	上海有鲜活的艺术生活。
+	
+## 一个城市的消极特征
+ 
+* 不幸的是，大的城镇地区常常有严重的社会和经济问题。
+  	 
+Unemployment is really high in Chicago.
+	芝加哥的失业率非常高。
+  	  	 
+Tampa has a terrible problem with homelessness.
+	在坦帕无家可归是个严重的问题。
+  	  	 
+There is a lot of crime in most huge cities.
+	在大多数巨大城市中都有很多犯罪。
+  	  	 
+I hate seeing trash on the streets of my city.
+	我憎恨看到我的城市街道上的垃圾。
+	
+## 变换语序加强语气
+ 
+* 有时说话人和作者希望把注意力集中在某件事或某个观点上。一种方法是变换语序。在有些语法书中，这被称为 cleft sentence（分裂句）。请看以下各例：
+
+以 'what' 起句, 比较这两个句子。注意第二个句子中重点在单词love上，而且它以单词what开始。
+ 
+I love looking at modern architecture.
+	我爱看现代建筑。
+  	  	 
+What I love is looking at modern architecture.
+	我爱的事情是看现代建筑。
+
+* 这些句子虽然复杂，但在英语中很常见。它们是强调句中某一特定部分的好办法。请看下面两对句子，一个是常规句，一个是变换语序后的句子，比较它们的强调程度。
+  	 
+It is interesting how the city has changed.
+	城市的变化是有意思的。
+  	  	 
+What is interesting is how the city has changed.
+	有意思的是城市是如何变化的。
+  	  	 
+I like the efficient subways in Tokyo.
+	我喜欢东京的有效率的地铁。
+  	  	 
+What I like about Tokyo is the efficient subways.
+	我喜欢东京的地方是它的有效率的地铁。
+  	  	 
+I'm interested in shopping.
+	我对购物感兴趣。
+  	  	 
+What I'm interested in is shopping.
+	我感兴趣的是购物。
+	
+## 描述一个城市
+ 
+* 一种描写一个有意思的城市的方法是使用各种描述性词语来表达你的感情。注意-ing和-ed结尾的词。以-ing结尾的词常常描述某个事物的特性，但是以-ed结尾的词描述感情。
+  	 
+The homelessness in Tampa was shocking.
+	在坦帕无家可归的情形是令人震惊的。
+  	 
+I was shocked by the homelessness in Tampa.
+	我对坦帕的无家可归的情形感到震惊。
+  	 
+* 这些是几对描述性词汇。
+  	 
+disgusted – disgusting
+	感到恶心的－令人恶心的
+
+amazed – amazing
+	感到十分惊奇的－令人十分惊奇的
+
+disturbed – disturbing
+	感到不安的－令人感到不安的
+
+confused – confusing
+	感到疑惑的－令人感到疑惑的
+
+surprised – surprising
+	感到惊讶的－令人感到惊讶的
+	
+## 弱化负面评论
+
+* 你不知道谁会读你的博客文章，因此如果你要说一些关于某人的城市负面的事情，你要做到diplomatic（圆通得体的）。一种方法是用复句开场来弱化你的观点。
+  	 
+I hate to say it, but homelessness is a problem there.
+	我不太想说，可是无家可归是那的一个问题。
+  	 
+I don't want to offend anyone, but crime was a problem there.
+	我不想得罪任何人，但是犯罪是那的一个问题。
+  	 
+I'm sorry to say this, but it was disgusting.
+	我很难过说到这事，但是它是令人恶心的。
+  	 
+* 另一个弱化负面观点的方法是使用像a little或者a bit的量词。
+  	 
+It was a little disgusting.
+	它有一点令人恶心。
+  	 
+She was a bit disturbed.
+	她有一点感到不安。
+
+ 
