@@ -722,21 +722,194 @@ surprised – surprising
 
 * 你不知道谁会读你的博客文章，因此如果你要说一些关于某人的城市负面的事情，你要做到diplomatic（圆通得体的）。一种方法是用复句开场来弱化你的观点。
   	 
-I hate to say it, but homelessness is a problem there.
-	我不太想说，可是无家可归是那的一个问题。
+```
+I hate to say it, but homelessness is a problem there. 我不太想说，可是无家可归是那的一个问题。
   	 
-I don't want to offend anyone, but crime was a problem there.
-	我不想得罪任何人，但是犯罪是那的一个问题。
+I don't want to offend anyone, but crime was a problem there. 我不想得罪任何人，但是犯罪是那的一个问题。
   	 
-I'm sorry to say this, but it was disgusting.
-	我很难过说到这事，但是它是令人恶心的。
+I'm sorry to say this, but it was disgusting. 我很难过说到这事，但是它是令人恶心的。
+```
   	 
 * 另一个弱化负面观点的方法是使用像a little或者a bit的量词。
+
+```
+It was a little disgusting. 它有一点令人恶心。
   	 
-It was a little disgusting.
-	它有一点令人恶心。
-  	 
-She was a bit disturbed.
-	她有一点感到不安。
+She was a bit disturbed. 她有一点感到不安。
+```
 
  
+# 11-2
+
+## 谈论技术
+  	  	  	 
+用像这样的词汇来描述技术是如何工作的。
+  	  	  	 
+    Do you know your user name and password?  	  	你知道你的用户名和密码吗？
+    Enter your user name and password to go to the company intranet. 	  	输入你的用户名和密码来进入公司的内部网。
+    You can access the company Wi-Fi information from the home page.  	  	你可以在主页查看公司无线网的信息。
+    Our intranet allows us to safely share information within the company. 	  	我们的内部网允许我们在公司内部安全地共享信息。
+  	  	  	 
+语言点：Wi-Fi 和 wireless network 这两个术语是同一个意思。
+
+## 多部分动词用作技术词汇
+ 
+* 复合动词是后接一个或多个介词的动词，比如 in、on 或 down。Type in 就是一个复合动词。
+	He typed in the information. 	  	他输入信息。
+  	  	  	 
+* 可分离复合动词
+ 
+> 有些复合动词的两个部分可以分开。注意在下面的例子中，switch 和 on 在第一例中没有隔开，但在第二例中分隔开来。
+	Switch on the computer. 	  	启动电脑。
+	Switch the computer on. 	  	启动电脑。
+  	  	  	 
+> 对于可分动词，可将代词it, them 和 him放在动词和介词之间。
+	Switch it on. 	  	把它启动。
+	Put them in. 	  	把它们放进去。
+	
+* 不可分离复合动词
+  	  	  	 
+有些复合动词的动词和介词不能分开。
+  	  	  	 
+	Log in with your password. 	  	输入你的密码登录。
+	You can double-click on the icon to open the file. 	  	你可以双击图标打开文件。
+	Scroll down the page to find the link. 	  	滚动下拉页面，找到链接。
+	You can zoom in to make the image larger. 	  	你可以拉近放大图片。
+	With a smartphone, tap on the icon to open the program. 	  	对智能手机而言，点击图标打开程序。
+	
+## 描述某物的工作原理
+  	  	  	 
+* 使用这些表达方式来询问如何使用某物：
+
+        How does that work? 	  	那是怎么工作的？
+        Can you explain how it works? 	  	你能解释它是怎么工作的吗？
+        What do I do? 	  	我怎么做？
+        How do I do it? 	  	我怎么做呢？
+  	  	  	 
+* 使用这些表达向他人解释某物的工作原理：
+        
+      Let me explain how it works. 	  	让我来解释它的工作原理。
+      First of all, you have to switch it on. 	  	首先，你要将它启动。
+      The next thing you have to do is log in.  	  	你必须要做的下一件事是登录。
+      After that, tap on any icon to open the file. 	  	然后，轻击任何图标来打开文件。
+
+## 描述电脑问题
+
+* 有时候，你会遇到些技术问题。这些是能帮助你描述问题的单词和词组。
+
+      Oh, no! My computer has crashed. 	  	哦，糟糕！我的电脑死机了。
+      You can't log in because your password has expired. 	  	你无法登录是因为你的密码已过期。
+      I can't connect to the internet. Our service must be down. 	  	我无法连接到网络。我们的服务一定中断了。
+      If you're having a problem, reboot your computer. 	  	如果你遇到问题，重启电脑。
+  	  	  	 
+* 更多与计算机相关的复合动词, 你可以用一些多部分动词来描述技术问题。
+
+      I'll sort the problem out. 	  我会把问题解决掉。
+      I didn't back up my files, and I had to start all over again. 	  我没有备份我的文件，我必须要重新从头再来一遍。
+      My computer got too hot and shut down. 	  我的电脑太热了，关机了。
+      Don't forget to log off from your computer at the end of the day.    一天工作结束时，不要忘记注销你的计算机。
+      
+## 表达义务和期望
+  	  	  	 
+* be required to 用于必须遵守的规定。该表达与 have to 和 have got to 的意义相同，但更正式更官方。
+	
+	All employees are required to change their passwords every month.  	  所有的员工每个月都要求更改他们的密码。
+  	  	  	 
+* 某事应做但并不一定要做时，使用 be supposed to 和 be expected to。两个短语的语气与 should 和 ought to 相似。
+	
+	You're supposed to back up all the work you do.    你应该备份你做的所有工作。
+	You're expected to tell your manager if you have a computer problem. 	  如果遇到计算机故障，你应该告诉你的经理。
+  	  	  	 
+* 使用 be responsible for 表达常规工作要求。
+	
+Employees are responsible for reporting all technical problems to IT. 	  员工有责任将所有的技术问题汇报给信息技术部门。
+  	  	  	 
+* 使用 be allowed to 表示特权或权利。
+
+Employees are allowed to work from home one day a week. 	  员工每周可以在家办公一天。
+
+## 有关创新的词汇：不同的词形
+  	  	 
+* 学习单词的不同形式来扩大词汇量和正确使用单词。
+  	  	 
+	innovate - innovation - innovative 	创新－创新－创新的
+	fail - failure - failing 	失败－失败－失败的
+	emerge - emergence - emerging 	出现－出现－新兴的
+	curiosity - curious 	好奇－好奇的
+	pragmatism - pragmatic 	实用主义－务实的
+	accuracy - accurate 	精确－精确的
+
+## 表达重要性
+  	  	  	 
+表达重要性，除了直接说 this is important，还有其他具有同等效果、更为巧妙的方法。
+  	  	  	 
+* 重读, 一种表达重要性的方法是重读某些单词。在本例中，注意单词 easy 和 when 的重读，以及它们如何传达时机的重要性。
+  	  	  	 
+Predicting the future is the easy part. The hard part is knowing when it's going to happen. 
+	  	预测未来简单。难的是知道什么时候会发生。
+
+* 加强语气的表达
+  	  	  	 
+使用以下类似表达，有助于你强调重要的观点：
+  	  	  	 
+	I'd like to talk about the future. 	  我想谈谈将来。
+	What drives me is curiosity. 	  驱动我的是好奇心。
+	The hard part is knowing who is going to do it. 	  难就难在知道由谁来做。
+	I would look for a pragmatic person. 	  我要找个务实的人。
+	There's nothing like hands-on experience. 	  没什么比得上实践经验。
+	
+## 推断的做出和确认
+ 
+* 做出 inference（推断）有助于你确认别人所说的内容，让人放心你明白了他们的意思。使用类似表达做出推断：
+ 
+      It sounds like you're driven by pragmatism. 	听起来驱使你的是实用主义。
+      I thought she was saying that we should have fewer meetings. 	我认为她的意思是我们应该少开点会。
+      If I understood him correctly, we should do more brainstorming. 	如果他说的我没理解错的话，我们应该多多集思广益。
+      If I'm hearing you correctly, only highly adaptable companies are successful. 	如果你说的我没听错的话，只有适应能力强的公司才是成功的。
+      
+## 科技的影响
+  	  	  	 
+* 这些有用的语言用来描述技术对你生活的影响。
+  	  	  	 
+      Sometimes all the technology in our lives can be overwhelming. 	  我们生活中的各种科技有时可能让人难以应付。
+      I'm totally dependent on my smartphone. I'd be lost without it. 	  我非常依赖我的智能手机，没有它，我会不知所措。
+      John is completely engrossed in his video game. 	  John 极度沉迷电子游戏。
+      I'm in a difficult position. I don't like technology, but I need it. 	  我处境尴尬。我不喜欢科技，可却需要科技。
+      The advancement of technology is unstoppable. 	  科技的进步不可阻挡。
+      Social networking has had a very positive effect on my life. 	  社交网络在我的生活中有非常积极的影响。
+      We can access media in many different ways now. 	  现在我们可以用很多不同的方式来登入媒体。
+      Technology is a double-edged sword. It has advantages and disadvantages. 	  科技是一把双刃剑，优势和劣势并存。
+      
+## 同意和不同意
+  	  	  	 
+> 当我们就某个问题争论的时候， 你可能想表明你同意或者不同意某人的观点。
+  	  	  	 
+	You have a good point there. 	  	你正说到点子上了。
+	Yes, I see what you're saying. 	  	是的， 我明白你所说的。
+	I'm not so sure about that. 	  	我不那么确定。
+	I can't agree with you there. 	  	我不能同意你的观点。
+  	  	  	 
+> 如果你不同意某人的观点， 你可能想提出一个对立的观点。
+  	  	  	 
+	Actually, I think technology has made life a lot better. 	  	事实上，我认为技术让我们的生活变得好很多。
+	I hear what you're saying, but it's a double-edged sword. 	  	我听到你所说的，但是它是一把双刃剑。
+	
+> 给出具体的例子能够增强你的论点。
+  	  	  	 
+      I mean, all I see is kids totally engrossed in their smartphones!   我的意思是，我所看到的尽是孩子们完全沉迷在他们的智能手机里。
+      For example, I know people who can work from home now. 	  例如，我认识一些人他们现在在家工作。
+  	  	  	 
+> 如果你不能同意一个不同的观点，使用这些表达方式。
+  	  	  	 
+	We'll just have to agree to disagree.  	  	我们不得不承认我们的观点无法一致。
+	Well, each to their own, I guess. 	  	嗯，我想我们是各持己见。
+	
+> 给出具体的例子能够增强你的论点。
+  	  	  	 
+      I mean, all I see is kids totally engrossed in their smartphones!   我的意思是，我所看到的尽是孩子们完全沉迷在他们的智能手机里。
+      For example, I know people who can work from home now. 	  	例如，我认识一些人他们现在在家工作。
+  	  	  	 
+> 如果你不能同意一个不同的观点，使用这些表达方式。
+  	  	  	 
+	We'll just have to agree to disagree.  	  	我们不得不承认我们的观点无法一致。
+	Well, each to their own, I guess. 	  	嗯，我想我们是各持己见。
